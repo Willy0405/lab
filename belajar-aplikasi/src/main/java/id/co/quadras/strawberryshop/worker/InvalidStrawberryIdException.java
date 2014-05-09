@@ -1,7 +1,7 @@
 package id.co.quadras.strawberryshop.worker;
 
 /**
- * Created by achmad on 5/9/2014.
+ * Created by willy on 5/9/2014.
  */
 public class InvalidStrawberryIdException extends IllegalArgumentException {
     public InvalidStrawberryIdException() {

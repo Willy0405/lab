@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by achmad on 5/8/2014.
+ * Created by willy on 5/8/2014.
  */
 public class BrowniesWorker implements Worker {
     private final Logger logger = LoggerFactory.getLogger(getClass());

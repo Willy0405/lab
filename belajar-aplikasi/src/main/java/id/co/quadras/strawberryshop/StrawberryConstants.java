@@ -1,7 +1,7 @@
 package id.co.quadras.strawberryshop;
 
 /**
- * Created by achmad on 5/8/2014.
+ * Created by willy on 5/8/2014.
  */
 public interface StrawberryConstants {
     byte STANDART_STRAWBERRY_DRINK = 1;

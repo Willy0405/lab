@@ -3,7 +3,7 @@ package id.co.quadras.strawberryshop.worker;
 import id.co.quadras.strawberryshop.StrawberryConstants;
 
 /**
- * Created by achmad on 5/8/2014.
+ * Created by willy on 5/8/2014.
  */
 class ChocolateToppingMilkStrawberryDrink extends StrawberryBeverage {
     @Override

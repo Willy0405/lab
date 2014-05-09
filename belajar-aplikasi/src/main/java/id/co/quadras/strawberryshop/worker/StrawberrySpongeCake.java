@@ -1,7 +1,7 @@
 package id.co.quadras.strawberryshop.worker;
 
 /**
- * Created by achmad on 5/8/2014.
+ * Created by willy on 5/8/2014.
  */
 class StrawberrySpongeCake extends StrawberryFood {
     @Override
